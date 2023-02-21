@@ -1,0 +1,43 @@
+section{
+    width: 500px;
+    height: 500px;
+    font-size: 0;
+}
+
+.hijo{
+    padding: 10px;
+}
+
+.hijo1, .hijo2{
+    border-top: 10px solid grey;
+    border-bottom: 10px solid grey;
+    width: 230px;
+    height: 210px;
+}
+
+.hijo1{
+    background-color: lightblue;
+    display: inline-block;
+}
+
+.hijo2 {
+    background-color: red;
+    display: inline-block;
+}
+
+.hijo3, .hijo4{
+    border-left: 10px solid cyan;
+    border-right: 10px solid cyan;
+    width: 210px;
+    height: 230px;
+}
+
+.hijo3 {
+    background-color: salmon;
+    display: inline-block;
+}
+
+.hijo4 {
+    background-color: green;
+    display: inline-block;
+}
