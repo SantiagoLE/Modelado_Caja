@@ -9,7 +9,7 @@ section{
 }
 
 .hijo1, .hijo2{
-    border-top: 10px solid grey;
+    border-top: 10px solid black;
     border-bottom: 10px solid grey;
     width: 230px;
     height: 210px;
